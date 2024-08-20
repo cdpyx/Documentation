@@ -1,11 +1,9 @@
 # api教程
 ## API Key
 
-:::提示
-如果您使用管理员帐户，您的 API 密钥也将具有管理员权限。请不要泄露您的 API 密钥。
-:::
-
-如图所示，
+:::提示：
+如果您使用管理员帐户，您的 API 密钥也将具有管理员权限。请不要泄露您的 API 密钥。 :::
+如图所示：
 
 <img src="../../images/zh_cn/to_user_info.png" style="width:300px" />
 
@@ -28,7 +26,6 @@ X-Requested-With: XMLHttpRequest
 
 - X-Requested-With: XMLHttpRequest
 - Content-Type: application/json; charset=utf-8
-
 :::
 
 您将获得所有节点的所有数据：
